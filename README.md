@@ -10,11 +10,11 @@ project/
 
 ├── data/ # Ethereum Market Data
 
-    └──  ETH_data.csv
+   └──  ETH_data.csv
 
 ├── models/ # Trained model
 
-    └── market_volatility_model.pkl
+   └── market_volatility_model.pkl
 
 ├── dashboard.py # Streamlit dashboard
 

@@ -1,5 +1,4 @@
 # DeFi-Risk-Assessment-Tool
-=======
 
 ## Overview
 This (very rudimentary) project predicts the volatility of Ethereum prices using historical market data. It includes a Streamlit dashboard for interactive predictions and visualizations. I plan to include a smart contract risk model as a feature in the future.

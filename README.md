@@ -7,6 +7,7 @@ I used random forest regressor to leverage multiple decision trees to capture th
 
 ## Project Structure
 project/
+
 ├── data/ # Ethereum Market Data
 
 │ └──  ETH_data.csv
